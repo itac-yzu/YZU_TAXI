@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator">
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="-100%p"
+        android:duration="1000"/><!--fromYDelta: 代表Y座標為0開始
+                                     toYDelta: 代表位移多少 -100%p 代表負的整個頁面長度
+                                     duration: 代表移動速度-->
+</set> 

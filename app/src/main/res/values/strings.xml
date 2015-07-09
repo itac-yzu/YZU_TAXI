@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YZU_TAXI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bulletinBoard_textGroup">揪團區</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="member"> 成員</string>
+</resources>

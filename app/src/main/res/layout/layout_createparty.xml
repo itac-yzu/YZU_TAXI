@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<android.support.v4.view.ViewPager
+        android:id = "@+id/createParty_pager_Time"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="100dp"
+        />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/createParty_pager_Member"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"/>-->
+    <com.pixplicity.multiviewpager.MultiViewPager
+        android:id="@+id/viewpager_Time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

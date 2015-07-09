@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <item android:state_pressed="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <layer-list
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <!-- Button Shadow -->
+            <item android:top="2dp" android:right="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <layer-list
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <item
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <shape android:shape="oval"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+                            <solid android:color="#80000000"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                            <padding
+                                android:bottom="3px"
+                                android:left="3px"
+                                android:right="2px"
+                                android:top="2px"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </shape>
+                    </item>
+                    <item
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <shape android:shape="oval"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+                            <solid android:color="#A6000000"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                            <padding
+                                android:bottom="2px"
+                                android:left="2px"
+                                android:right="1px"
+                                android:top="1px"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </shape>
+                    </item>
+                </layer-list>
+            </item>
+
+            <!-- Pressed Button color -->
+            <item
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <shape android:shape="oval"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <solid android:color="@color/colorAccentHighlight"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+    <item android:state_enabled="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <layer-list
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <!-- Button shadow -->
+            <item android:top="2dp" android:right="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <layer-list
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <item
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <shape android:shape="oval"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+                            <solid android:color="#80000000"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                            <padding
+                                android:bottom="2px"
+                                android:left="2px"
+                                android:right="2px"
+                                android:top="2px"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </shape>
+                    </item>
+                </layer-list>
+            </item>
+
+            <!-- Default Button color -->
+            <item
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <shape android:shape="oval"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <solid android:color="@color/colorAccent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </shape>
+            </item>
+        </layer-list>
+
+    </item>
+
+</selector>

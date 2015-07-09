@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/JoinedBoard_textView_JoinedCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你目前加入了2個共乘。"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/JoinedBoard_textView_JoinedPartyStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="明天下午前往內壢火車站的「徵婆 有點裝 可帶練」，在元智大門集合，目前有2個團員。"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/JoinedBoard_textView_Message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1個共乘有新留言。"
+            android:textColor="@color/blue"/>
+
+        <TextView
+            android:id="@+id/JoinedBoard_textView_Vote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2個共乘有新投票，請儘速前往參與。"
+            android:textColor="@color/red"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/JoinedBoard_RecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp" />
+
+    </LinearLayout>
+</LinearLayout>
