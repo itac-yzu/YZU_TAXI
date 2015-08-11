@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout_login"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:layout_marginBottom="120dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="註冊"
+            android:id="@+id/login_textView_signup"
+            android:layout_gravity="center_horizontal"
+            android:autoText="false"
+            android:textColor="#fff3a536"
+            android:textSize="60dp"
+            android:paddingBottom="10dp"
+            android:shadowColor="#860f000f" />
+
+        <TextView
+            android:layout_width="244dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="你的元智信箱"
+            android:id="@+id/login_textView_email"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="5dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:textColor="#000000" />
+
+        <EditText
+            android:layout_width="258dp"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/login_editText_email"
+            android:paddingBottom="10dp"
+            android:gravity="center" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="305dp"
+            android:layout_height="15dp"></LinearLayout>
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_FB_button"
+            android:layout_width="267dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/login_content1"
+            android:id="@+id/login_textView_content1"
+            android:textColor="#312F2F" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/login_content2"
+            android:id="@+id/login_textView_content2"
+            android:textColor="#312F2F"
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Test"
+            android:id="@+id/login_button"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+</LinearLayout>

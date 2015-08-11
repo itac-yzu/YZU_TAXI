@@ -6,4 +6,16 @@
     <string name="bulletinBoard_textGroup">揪團區</string>
     <string name="title_activity_maps">Map</string>
     <string name="member"> 成員</string>
+
+    <string name="login_content1">對阿，就是這麼簡單。</string>
+    <string name="login_content2">我是指這個步驟啦。\n</string>
+    <string name="login_dialog">我們需要您的Facebook資訊以確認性別，提供給其他使用者辨認。\n相同的，通過這個步驟，你也能正確無誤地得知共乘者的性別。Facebook連結只作為存取性別資訊以及登入用。</string>
+    <string name="login_dialog_cancel"><u>我知道了</u></string>
+    <string name="signup_title">接下來...</string>
+    <string name="signup_name">暱稱</string>
+    <string name="signup_password">個人密碼</string>
+    <string name="signup_vailcode">信箱驗證碼</string>
+    <string name="signup_namealert">噢，好名子。</string>
+    <string name="signup_dialog">假如你加入了一個共乘，但是朋友趁著你不注意偷偷將你從共乘中退出了，你到時候不只沒車搭還很尷尬。\n讓只有你知道的個人密碼保護你的權益，記用力一點，要是忘記了要重新設定可是很麻煩的呀。\n</string>
+    <string name="signup_passalert"><u>想知道密碼要幹嘛？</u></string>
 </resources>

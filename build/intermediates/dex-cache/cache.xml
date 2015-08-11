@@ -2,123 +2,158 @@
 <items version="2" >
 
     <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-7695e00f87926cb258cd4c8f659bdcce6deeaf1b.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-72c451582058e40730d00d131fd9a3038da34c2d.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-e15a77271085d65ba63d8a8ae06d897fa35afaef.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-3b6cb2f341ebd11728a55e9fd696b8fa061e0258.jar" />
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-c0cc6ff57b9a125234c3c543a553f1831dda1c09.jar" />
     </item>
     <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-83f3ebaa4fd450491a6f4f152bf11f2a6d77bc35.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-23e07bb5133dad46100f8c9cff9cc23bb3509e81.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-229ceb90d67b5746018b8d45ea2bf528284e8ad3.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-59ea64e8d7f677a1836763e251a62336f859be3c.jar" />
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-582a6728179ca263cfafc7ce5905ea72bd42c924.jar" />
     </item>
     <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-401cfbc39ab1b9afc02b890e0876adf50746ebbe.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-eba1ec730070a2985417e4ff9a104d8896514091.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-dfe2b45317bf2e02081208e1b4438ab61f98fc2a.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-fa43df3cf124ff145359358807269a3c4933121b.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-0beff609fb63d7cad51b1156b4b50900c0c2fd12.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-65001685fa50a89ed89989c9dea6346030e76406.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-9c7d4bb87825be77b5346d5dba2d5997e367b5eb.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/classes.jar"
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="22886d910315028a2b34b1ba068c265534ade87a">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-8ced7a520a213e9715b86df9b0bf3dadef84d4af.jar" />
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-69bdaba2d677ebb9ff6f7d21064eeb4707a295f4.jar" />
     </item>
     <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-a0e00ab789fa0ed55608eabd6e9020c0838caf34.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-b834a8e35030680dde5689abdd15636c855c193a.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-3dc25decf16ef985a90b371c44ec7d78aa75a05f.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-8d8eb5a0b75840220804b16921f3c60d81d6ba68.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-b0713082a4fa5197bf15a0dd1a65b3f5c2c91a6c.jar" />
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-e39cbf20644164cf49be1781c6776fe3839e61c6.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-9b77a38e214f5e4fdf990213c4dc4cb49ffa5495.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.pixplicity.multiviewpager/library/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9af89de26d412f6c1a20a919c2e8583974cb3d18">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-a4f6e16dcf48a1aea773f378176c651788a33c23.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-5503c94902c41968a073ad094c34011d7be50d4b.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-b4c01a217100a4674c608899e6a1b709835c5bfd.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-82eadc05c7ead91d022c760249dd6b8809006ffb.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-69cf1572402634929592bd76243a477aecf2f560.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-f530b08321efade3a6d1a6d26d848c75fd013e78.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-940cef32d72d71b36dae549dfaaf1919fbd47990.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-7b8ef9998591595ebb40ae0970b38a2c3413de24.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-7655fce32e62fd8acfcbb7a53676832b4e550741.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-d1ed14a3da52b8207e21af0366d13205fc809e66.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-77303bdd623c5aa246c9f2a49f37cd158c3d86a9.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-433487e2c8c328cd549a1dde4a9c52b3d2bfc31e.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-0bf2f1849d33bf8f019a7e7dfdda93d75031a77a.jar" />
     </item>
     <item
         jar="/Users/ChengYuShao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
@@ -128,67 +163,32 @@
         <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-feb033841dec370f9fbda364015dfcbc4dc2b45e.jar" />
     </item>
     <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-e646c6ae932dc1f99bde09f7068bbf963b9f77e2.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-c75812080b9cbe3a5036c63fc38717ce83b79d78.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-88c98d1c773c0cc6a0355dd5dd0ba08cc6e49ac4.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-805865e0bc6244e5913986e0b855ca31668d692a.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-7f5ebb623ede1f8817151613196b53eb655462a2.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.pixplicity.multiviewpager/library/1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9af89de26d412f6c1a20a919c2e8583974cb3d18">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-5895461e68de5e94e8b251f60296f8c7a500401f.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-b2cdb582ca39a3b1bc23acb756ca48397d0e7281.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-28179ccab63b73123405d6a8547ea9717f5e6aaa.jar" />
-    </item>
-    <item
-        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/classes.jar"
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
-        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-2ce13aa3ce1918e27852ebc7af7bc309872c40ba.jar" />
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-859535ae49eff217811adaa1a63a72ee940931e2.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-261219a3a5f3dc97cdfce628fba4c705f411abe4.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-9828c9d6ddd1db00037cd4f979e86f20568b394f.jar" />
+    </item>
+    <item
+        jar="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/ChengYuShao/AndroidstudioProjects/YZU_TAXI/app/build/intermediates/pre-dexed/debug/classes-b9ad6d42c99312789f9b56dbe5ce4d765e10063d.jar" />
     </item>
 
 </items>
