@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/white">
@@ -23,6 +24,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
             android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
             android:text="QAQ"
             android:textSize="30dp"
@@ -31,7 +33,7 @@
 
     </RelativeLayout>
 
-    <ImageButton
+    <!--<ImageButton
         android:layout_width="@dimen/fab_button_diameter"
         android:layout_height="@dimen/fab_button_diameter"
         android:background="@drawable/fab_shape"
@@ -42,7 +44,19 @@
         android:layout_marginBottom="-35dp"
         android:src="@drawable/actionbar_search"
         android:tint="@android:color/white"
-        android:scaleType="fitXY"/>
+        android:scaleType="fitXY"/>-->
+    <com.rey.material.widget.FloatingActionButton
+        android:id="@+id/partyInfo_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fab_iconSrc="@drawable/actionbar_search"
+        app:fab_backgroundColor="@color/mainYello"
+        app:fab_iconSize="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignBottom="@id/partyInfo_Base_RelativeLayout"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="-35dp"/>
 
     <LinearLayout
         android:id="@+id/partyInfo_Base_LinearLayout"

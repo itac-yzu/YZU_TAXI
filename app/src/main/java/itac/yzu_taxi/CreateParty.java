@@ -8,7 +8,6 @@ import android.support.v7.app.ActionBarActivity;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.pixplicity.multiviewpager.MultiViewPager;
 
 import org.w3c.dom.Text;
 
@@ -17,14 +16,15 @@ import org.w3c.dom.Text;
  */
 public class CreateParty extends ActionBarActivity{
     private ViewPager mPagerTime,mPagerMember;
-
+    //private ButtonFloat buttonFloat;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_createparty);
 
-        MultiViewPager multiViewPager = (MultiViewPager) findViewById(R.id.viewpager_Time);
-        multiViewPager.setPageMargin(getResources().getDimensionPixelOffset(R.dimen.viewpager_margin));
+        //MultiViewPager multiViewPager = (MultiViewPager) findViewById(R.id.viewpager_Time);
+        //multiViewPager.setPageMargin(getResources().getDimensionPixelOffset(R.dimen.viewpager_margin));
+        //buttonFloat = (ButtonFloat) this.findViewById(R.id.buttonFloat);
 
         FragmentPagerAdapter fragmentPagerAdapter = new FragmentPagerAdapter(getSupportFragmentManager()) {
             @Override
@@ -45,7 +45,7 @@ public class CreateParty extends ActionBarActivity{
 
         };
 
-        multiViewPager.setAdapter(fragmentPagerAdapter);
+        //multiViewPager.setAdapter(fragmentPagerAdapter);
 
         /*mPagerTime = (ViewPager) this.findViewById(R.id.createParty_pager_Time);
         ViewPagerAdapter_CreateParty mAdapter_Time = new ViewPagerAdapter_CreateParty(6,CreateParty.this);

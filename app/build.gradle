@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "itac.yzu_taxi"
-        minSdkVersion 17
+        minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
@@ -25,5 +25,7 @@ dependencies {
     compile 'com.android.support:cardview-v7:22.1.1'
     compile 'com.android.support:recyclerview-v7:22.1.1'
     compile 'com.google.android.gms:play-services:7.3.0'
-    compile 'com.pixplicity.multiviewpager:library:1.0'
+    //compile 'com.github.navasmdc:MaterialDesign:1.5@aar'
+    //compile 'com.nineoldandroids:library:2.4.+'
+    compile 'com.github.rey5137:material:1.2.1'
 }

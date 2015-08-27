@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <!--<android.support.v4.view.ViewPager
@@ -15,10 +16,48 @@
         android:layout_width="300dp"
         android:layout_height="50dp"
         android:layout_margin="10dp"/>-->
-    <com.pixplicity.multiviewpager.MultiViewPager
-        android:id="@+id/viewpager_Time"
+    <!--<com.gc.materialdesign.views.ButtonFloatSmall
+        android:id="@+id/buttonFloatSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        />
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/mainYello"
+        materialdesign:iconDrawable="@drawable/fab_ic_add"
+        android:layout_above="@+id/buttonFloat" />
 
-</LinearLayout>
+    <com.gc.materialdesign.views.ButtonFloat
+        android:id="@+id/buttonFloat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/mainYello"
+        materialdesign:iconDrawable="@drawable/fab_ic_add" />
+        materialdesign:animate="true"-->
+    <com.rey.material.widget.FloatingActionButton
+        android:id="@+id/createParty_fab_remove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fab_iconSrc="@drawable/fab_ic_add"
+        app:fab_backgroundColor="@color/mainYello"
+        app:fab_radius="20dp"
+        android:layout_above="@+id/createParty_fab_add"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="22dp"/>
+
+    <com.rey.material.widget.FloatingActionButton
+        android:id="@+id/createParty_fab_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fab_iconSrc="@drawable/fab_ic_add"
+        app:fab_backgroundColor="@color/mainYello"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/fab_button_margin_right"
+        android:layout_marginBottom="@dimen/fab_button_margin_bottom"/>
+</RelativeLayout>

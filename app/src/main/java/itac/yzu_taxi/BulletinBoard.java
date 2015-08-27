@@ -41,6 +41,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import com.rey.material.widget.FloatingActionButton;
+
 
 public class BulletinBoard extends Fragment implements OnClickListener {
 
@@ -52,7 +54,7 @@ public class BulletinBoard extends Fragment implements OnClickListener {
     private RecyclerView recyclerView;
     private partyAdapter_RecyclerView recyclerAdapter;
     private Toolbar toolbar;
-    private ImageButton IB_CreateGroup;
+    private FloatingActionButton fab_CreateGroup;
     private Handler mHandler;
     private Thread mThread;
     private HttpClient client;
@@ -107,12 +109,12 @@ public class BulletinBoard extends Fragment implements OnClickListener {
         parties = new ArrayList<party>();
         context = this.getActivity().getBaseContext();
         recyclerView = (RecyclerView) v.findViewById(R.id.bulletinBoard_RecyclerView);
-        IB_CreateGroup = (ImageButton) v.findViewById(R.id.fab_createGroup);
+        fab_CreateGroup = (FloatingActionButton) v.findViewById(R.id.fab_createGroup);
         setCreateGroupButton();
     }
 
     private void setCreateGroupButton(){
-        IB_CreateGroup.setOnClickListener(new OnClickListener() {
+        fab_CreateGroup.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
                 indexActivity.createGroup();//呼叫index的方選
